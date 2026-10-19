@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Harshini! 👋
 
-<!--
-**harshiniraja1603/harshiniraja1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering student.
 
-Here are some ideas to get you started:
+💻 I'm learning programming and strengthening my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently exploring Python, software development, and computer science fundamentals.
+
+🚀 My Goals:
+- Improve my programming skills
+- Practice coding problems
+- Build practical projects
+- Learn new technologies
+
+🛠️ Languages and Interests:
+- Python
+- Software Development
+- Problem Solving
+
+📫 Thanks for visiting my profile!
